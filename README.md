@@ -1,5 +1,5 @@
 # NextJS Typescript Boilerplate
-
+.
 Bootstrap a developer-friendly NextJS app configured with:
 
 - [Typescript](https://www.typescriptlang.org/)
